@@ -53,6 +53,11 @@ pnpm db:seed
 
 pnpm run dev
 
+default user sing in info
+
+email :manager@test.com  
+ password : asddsa
+
 ## References
 
 The stack originates from [create-t3-app](https://github.com/t3-oss/create-t3-app).
